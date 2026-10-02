@@ -1,0 +1,27 @@
+{
+  "name": "pearl360-uganda",
+  "version": "1.0.0",
+  "description": "A web-based 360° virtual tour and smart trip-planning system for Uganda's national parks. It is the implementation for the Group 12 research proposal (MUBS, Bachelor of Business Computing). The case study is the **Uganda Wildlife Authority (UWA)**.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssegawa-jesse/tourism.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ssegawa-jesse/tourism/issues"
+  },
+  "homepage": "https://github.com/Ssegawa-jesse/tourism#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
